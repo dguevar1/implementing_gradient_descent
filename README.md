@@ -13,7 +13,7 @@ installed:
 - [Pandas](https://pandas.pydata.org/)
 - [scikit-learn](https://scikit-learn.org/stable/)
 
-We recommend using [Anaconda](https://www.anaconda.com/), a pre-package Python
+We recommend using [Anaconda](https://www.anaconda.com/), a pre-packaged Python
 distribution that contains all the necessary libraries and software for this
 project.
 
